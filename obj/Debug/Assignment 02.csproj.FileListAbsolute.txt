@@ -1,0 +1,17 @@
+D:\QA\Assignment 02\bin\Debug\NUnit3.TestAdapter.dll
+D:\QA\Assignment 02\bin\Debug\NUnit3.TestAdapter.pdb
+D:\QA\Assignment 02\bin\Debug\nunit.engine.dll
+D:\QA\Assignment 02\bin\Debug\nunit.engine.api.dll
+D:\QA\Assignment 02\bin\Debug\nunit.engine.core.dll
+D:\QA\Assignment 02\bin\Debug\testcentric.engine.metadata.dll
+D:\QA\Assignment 02\bin\Debug\Assignment 02.exe.config
+D:\QA\Assignment 02\bin\Debug\Assignment 02.exe
+D:\QA\Assignment 02\bin\Debug\Assignment 02.pdb
+D:\QA\Assignment 02\bin\Debug\nunit.framework.dll
+D:\QA\Assignment 02\bin\Debug\nunit.framework.xml
+D:\QA\Assignment 02\obj\Debug\Assignment 02.csproj.AssemblyReference.cache
+D:\QA\Assignment 02\obj\Debug\Assignment 02.csproj.SuggestedBindingRedirects.cache
+D:\QA\Assignment 02\obj\Debug\Assignment 02.csproj.CoreCompileInputs.cache
+D:\QA\Assignment 02\obj\Debug\Assignment 02.csproj.CopyComplete
+D:\QA\Assignment 02\obj\Debug\Assignment 02.exe
+D:\QA\Assignment 02\obj\Debug\Assignment 02.pdb
